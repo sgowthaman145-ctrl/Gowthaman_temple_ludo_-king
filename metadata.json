@@ -1,0 +1,5 @@
+{
+  "name": "Temple Ludo King",
+  "description": "An ancient temple-themed Ludo board game featuring robust game logic, AI move suggestions powered by Gemini, and high-fidelity visual aesthetics.",
+  "requestFramePermissions": []
+}
